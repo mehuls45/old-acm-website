@@ -86,7 +86,7 @@ ul li {
 	list-style: none;
 }
 .section {
-	padding: 100px 0;
+	padding: 50px 0;
 }
 .no-padding {
 	padding: 0;
@@ -118,12 +118,12 @@ ul li {
 }
 #header .logo {
 	float: left;
-	font-size:24px;
+	font-size:22px;
 	font-weight:700;
 	color:#fff;
 	text-decoration:none;
 	text-transform:uppercase;
-	letter-spacing:7px;
+	letter-spacing:0px;
 }
 #header.fixed {
 	background-color: #fff;
@@ -335,15 +335,15 @@ ul li {
 	$intro
 ========================================================================== */
 .intro {
-	background-color: #00aeda;
+	background-color: #fff;
 }
 .intro h3 {
-	color: #fff;
+	color: #000;
 	margin-top: 0;
 }
 .intro p {
 	font-family: "Merriweather", Arial, sans-serif;
-	color: rgba(255, 255, 255, 0.75);
+	color: #000;
 	font-weight: 400;
 }
 /* ------------------------------------------------------------------------------
