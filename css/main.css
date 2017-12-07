@@ -655,9 +655,12 @@ padding:15px 30px 15px 30px;
 	margin: 0 2px;
 }
 
-.center-div {
-	float: center;
+.center-div-1 {
     display: inline-block;
-    margin-right: 15%;
-    margin-left: 12%;
+    margin-left: 370px;
+}
+
+.center-div-2 {
+    display: inline-block;
+    margin-left: 130px;
 }
