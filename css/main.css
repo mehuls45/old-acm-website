@@ -664,3 +664,31 @@ padding:15px 30px 15px 30px;
     display: inline-block;
     margin-left: 130px;
 }
+
+.persons img {
+	width: 150px;
+	height: 150px;
+	margin: auto;
+}
+
+/**************************  Opportunities ************/
+
+.persons {
+	max-width: 270px;
+	text-align: center;
+}
+
+.persons-content {
+	margin-top: 20px;
+}
+.persons h4 {
+	font-weight: 400;
+}
+.persons h5 {
+	color: #00aeda;
+	font-size: 13px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+
+/**************************  Opportunities ************/
